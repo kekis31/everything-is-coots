@@ -1,0 +1,14 @@
+todo:
+X make more enemy types and waves
+X sound effects
+X screen shake n shit
+X grafix
+ X effects
+X title & death & win screen
+X GAMER MODE
+X health bar and UI
+
+extras:
+> difficulty setting
+> dialogue
+> upgrades
